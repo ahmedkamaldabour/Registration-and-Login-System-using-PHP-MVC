@@ -1,0 +1,110 @@
+{% extends "base.html" %}
+
+
+{% block footer %}
+<script src="/js/hideShowPassword.min.js"></script>
+<script>
+    $.validator.addMethod('validPassword',
+        function (value, element, param) {
+
+            if (value != '') {
+                if (value.match(/.*[a-z]+.*/i) == null) {
+                    return false;
+                }
+                if (value.match(/.*\d+.*/) == null) {
+                    return false;
+                }
+            }
+
+            return true;
+        },
+        'Must contain at least one letter and one number'
+    );
+
+    $(document).ready(function () {
+        $("#formSignup").validate({
+            rules: {
+                name: {
+                    required: true,
+                    minlength: 3
+                },
+                email: {
+                    required: true,
+                    email: true,
+                    remote: '/account/validate-email'
+                },
+                password: {
+                    required: true,
+                    minlength: 8,
+                    validatePassword: true
+                },
+
+            },
+            messages: {
+                email: {
+                    remote: "Email already exists"
+                },
+            }
+        });
+        /**
+         * Show password toggle button
+         */
+        $('#inputPassword').hideShowPassword({
+            show: false,
+            innerToggle: 'focus'
+        });
+    });
+
+</script>
+{% endblock %}
+
+{% block body %}
+
+<!-- write the signup word-->
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>Signup</h1>
+        </div>
+    </div>
+</div>
+
+<!-- get the error form the user object-->
+{% if user.errors %}
+<div class="alert alert-danger">
+    <p>Erorrs</p>
+    <ul>
+        {% for error in user.errors %}
+        <li>{{ error }}</li>
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}
+
+
+<div class="container text-primary col-sm-9">
+
+    <form action="/signup/create" method="post" id="formSignup">
+        <div class="form-group row">
+            <label for="inputName" class="col-sm-2 col-form-label">Name</label>
+            <input type="text" class="form-control" id="inputName" name="name" value="{{ user.name }}">
+        </div>
+        <div class="form-group row">
+            <label for="inputEmail" class="col-sm-2 col-form-label">Email</label>
+            <input type="text" class="form-control" id="inputEmail" name="email" value="{{ user.email }}">
+        </div>
+        <div class="form-group row">
+            <label for="inputPassword" class="col-sm-2 col-form-label">Password</label>
+            <input type="password" class="form-control" id="inputPassword" name="password">
+        </div>
+        <div class="form-group row">
+            <button type="submit" class="btn btn-primary">Signup</button>
+        </div>
+
+    </form>
+
+
+</div>
+
+
+{% endblock %}

@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block title %}Home{% endblock %}
+
+{% block body %}
+
+<!-- welcome by using bootstrap -->
+<div class="jumbotron">
+    <h1 class="display-4">Welcome to Dabour </h1>
+</div>
+{% if currentUser %}
+<div class="alert alert-success" role="alert">
+    Welcome {{ currentUser.name }} ==> You are logged in.
+</div>
+<a href="/login/destroy" class="btn btn-primary">Logout</a>
+{% else %}
+<div class="container">
+    <h1> Hello Guest </h1>
+    <p class="lead">Please login or register to continue</p>
+    <div class="row">
+        <div class="col-md-6">
+            <a href="/login/new" class="btn btn-primary btn-lg btn-block">Login</a>
+        </div>
+        <div class="col-md-6">
+            <a href="/signup/new" class="btn btn-primary btn-lg btn-block">Signup</a>
+        </div>
+    </div>
+</div>
+{% endif %}
+
+
+{% endblock %}
+

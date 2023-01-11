@@ -1,0 +1,678 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AccessModifierPresentedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="AliasFunctionsUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="AlterInForeachInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="AmbiguousMethodsCallsInArrayMappingInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="AnnotationDeprecatedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="AnnotationDocBlockClassConstantNotFound" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="AnnotationDocBlockConstantDeprecated" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="AnnotationMissingUseInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ArgumentUnpackingCanBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ArrayIsListCanBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ArrayPushMissUseInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ArraySearchUsedAsInArrayInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ArrayUniqueCanBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="AssignMisusedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="AutoloadingIssuesInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="BacktickOperatorUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="BadExceptionsProcessingInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="BehatDocStepCanBeConvertedToAttributeInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="CallableMethodValidityInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="CallableParameterUseCaseInTypeContextInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="CascadeStringReplacementInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="CascadingDirnameCallsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="CaseInsensitiveStringFunctionsMissUseInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ClassConstantCanBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ClassConstantUsageCorrectnessInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ClassMethodNameMatchesFieldNameInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ClassMockingCorrectnessInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ClassNameCollisionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ClassOverridesFieldOfSuperClassInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ClassReImplementsParentInterfaceInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="CompactArgumentsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="CompactCanBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ComparisonOperandsOrderInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ComposerJsonFileReferencesInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ConstantCanBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="CryptographicallySecureAlgorithmsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="CryptographicallySecureRandomnessInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="CurlSslServerSpoofingInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="DateIntervalSpecificationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="DateTimeConstantsUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="DateTimeSetTimeUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="DateUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="DegradedSwitchInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="DeprecatedConstructorStyleInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="DeprecatedDocTagInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="DeprecatedIniOptionsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="DirectoryConstantCanBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="DisallowWritingIntoStaticPropertiesInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="DisconnectedForeachInstructionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="DoctrineTypeDeprecatedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="DuplicateArrayKeysInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="DynamicCallsToScopeIntrospectionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="DynamicInvocationViaScopeResolutionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="EfferentObjectCouplingInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ElvisOperatorCanBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="EmptyClassInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="EncryptionInitializationVectorRandomnessInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="FixedTimeStartWithInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="FopenBinaryUnsafeUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ForeachInvariantsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ForgottenDebugOutputInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES">
+      <option name="configuration">
+        <list>
+          <option value="\Codeception\Util\Debug::debug" />
+          <option value="\Codeception\Util\Debug::pause" />
+          <option value="\Doctrine\Common\Util\Debug::dump" />
+          <option value="\Doctrine\Common\Util\Debug::export" />
+          <option value="\Illuminate\Support\Debug\Dumper::dump" />
+          <option value="\Symfony\Component\Debug\Debug::enable" />
+          <option value="\Symfony\Component\Debug\DebugClassLoader::enable" />
+          <option value="\Symfony\Component\Debug\ErrorHandler::register" />
+          <option value="\Symfony\Component\Debug\ExceptionHandler::register" />
+          <option value="\TYPO3\CMS\Core\Utility\DebugUtility::debug" />
+          <option value="\Zend\Debug\Debug::dump" />
+          <option value="\Zend\Di\Display\Console::export" />
+          <option value="dd" />
+          <option value="debug_print_backtrace" />
+          <option value="debug_zval_dump" />
+          <option value="dpm" />
+          <option value="dpq" />
+          <option value="dsm" />
+          <option value="dump" />
+          <option value="dvm" />
+          <option value="error_log" />
+          <option value="kpr" />
+          <option value="phpinfo" />
+          <option value="print_r" />
+          <option value="var_dump" />
+          <option value="var_export" />
+          <option value="wp_die" />
+          <option value="xdebug_break" />
+          <option value="xdebug_call_class" />
+          <option value="xdebug_call_file" />
+          <option value="xdebug_call_function" />
+          <option value="xdebug_call_line" />
+          <option value="xdebug_code_coverage_started" />
+          <option value="xdebug_debug_zval" />
+          <option value="xdebug_debug_zval_stdout" />
+          <option value="xdebug_dump_superglobals" />
+          <option value="xdebug_enable" />
+          <option value="xdebug_get_code_coverage" />
+          <option value="xdebug_get_collected_errors" />
+          <option value="xdebug_get_declared_vars" />
+          <option value="xdebug_get_function_stack" />
+          <option value="xdebug_get_headers" />
+          <option value="xdebug_get_monitored_functions" />
+          <option value="xdebug_get_profiler_filename" />
+          <option value="xdebug_get_stack_depth" />
+          <option value="xdebug_get_tracefile_name" />
+          <option value="xdebug_is_enabled" />
+          <option value="xdebug_memory_usage" />
+          <option value="xdebug_peak_memory_usage" />
+          <option value="xdebug_print_function_stack" />
+          <option value="xdebug_start_code_coverage" />
+          <option value="xdebug_start_error_collection" />
+          <option value="xdebug_start_function_monitor" />
+          <option value="xdebug_start_trace" />
+          <option value="xdebug_stop_code_coverage" />
+          <option value="xdebug_stop_error_collection" />
+          <option value="xdebug_stop_function_monitor" />
+          <option value="xdebug_stop_trace" />
+          <option value="xdebug_time_index" />
+          <option value="xdebug_var_dump" />
+        </list>
+      </option>
+      <option name="migratedIntoUserSpace" value="true" />
+    </inspection_tool>
+    <inspection_tool class="GetClassUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="GetDebugTypeCanBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="GetTypeMissUseInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="GlobalVariableUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="HostnameSubstitutionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="IfReturnReturnSimplificationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ImplodeArgumentsOrderInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="InArrayMissUseInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="IncorrectRandomRangeInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="IncrementDecrementOperationEquivalentInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="InfinityLoopInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="InstanceofCanBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="InvertedIfElseConstructsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="IsCountableCanBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="IsEmptyFunctionUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="IsIterableCanBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="IsNullFunctionUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="IssetArgumentExistenceInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="IssetConstructsCanBeMergedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="JsonEncodingApiUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="LongInheritanceChainInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="LoopWhichDoesNotLoopInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="MagicMethodsValidityInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="MessDetectorValidationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="MethodCanBePrivateInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="MethodShouldBeFinalInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="MethodVisibilityInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="MisorderedModifiersInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="MissUsingParentKeywordInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="MissingArrayInitializationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="MissingIssetImplementationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="MissingOrEmptyGroupStatementInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="MissingParameterTypeDeclarationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="MissingReturnTypeInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="MkdirRaceConditionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="MktimeUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="MockingMethodsCorrectnessInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ModuleDeclarationInRegistrationPhpInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="MultiAssignmentUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="MultipleReturnStatementsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="NestedAssignmentsUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="NestedNotOperatorsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="NestedPositiveIfStatementsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="NestedTernaryOperatorInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="NonSecureExtractUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="NonSecureParseStrUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="NonSecureUniqidUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="NotOptimalIfConditionsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="NotOptimalRegularExpressionsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="NullCoalescingOperatorCanBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="NullPointerExceptionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ObGetCleanCanBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="OffsetOperationsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="OneTimeUseVariablesInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="OnlyWritesOnParameterInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="OpAssignShortSyntaxInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PackedHashtableOptimizationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ParameterDefaultValueIsNotNullInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ParentPropertyDeprecatedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PassingByReferenceCorrectnessInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PdoApiUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpAbstractStaticMethodInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpAccessStaticViaInstanceInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpAccessingStaticMembersOnTraitInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpApplyingEmptyIndexOperatorOnStringInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpArgumentWithoutNamedIdentifierInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpArithmeticTypeCheckInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpArrayAccessCanBeReplacedWithForeachValueInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpArrayAccessOnIllegalTypeInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpArrayAppendUsingCountInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpArrayFillCanBeConvertedToLoopInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpArrayFilterCanBeConvertedToLoopInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpArrayIndexImmediatelyRewrittenInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpArrayIndexResetIsUnnecessaryInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpArrayIsAlwaysEmptyInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpArrayKeyDoesNotMatchArrayShapeInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpArrayMapCanBeConvertedToLoopInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpArrayPushWithOneElementInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpArraySearchInBooleanContextInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpArrayShapeAttributeCanBeAddedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpArrayToStringConversionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpArrayTraversableCanBeReplacedWithIterableInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpArrayUsedOnlyForWriteInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpArrayWriteIsNotUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpAssignmentInConditionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpAssignmentReplaceableWithOperatorAssignmentInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpAssignmentReplaceableWithPrefixExpressionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpAttributeCanBeAddedToOverriddenMemberInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpAttributeIsNotRepeatableInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpAutovivificationOnFalseValuesInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpBooleanCanBeSimplifiedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpCSFixerValidationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpCSValidationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpCaseWithValueNotFoundInEnumInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpCastIsEvaluableInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpCastIsUnnecessaryInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpCatchWithInstanceOfCanBeReplacedWithSpecificCatchesInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpClassCanBeReadonlyInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpClassCantBeUsedAsAttributeInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpClassConstantAccessedViaChildClassInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpClassConstantCanBeFinalInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpClassHasTooManyDeclaredMembersInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpClassImplementsSolelyTraversableInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpClassNamingConventionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpClosureCanBeConvertedToFirstClassCallableInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpClosureCanBeConvertedToShortArrowFunctionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpCombineMultipleIssetCallsIntoOneInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpCommentCanBeReplacedWithNamedArgumentInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpComplexClassInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpComplexFunctionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpComposerDuplicatedRequirementInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpComposerExtensionStubsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpCompoundNamespaceDepthInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpConcatenationWithArithmeticInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpConcatenationWithEmptyStringCanBeInlinedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpConditionAlreadyCheckedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpConditionCanBeReplacedWithMinMaxCallInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpConditionCheckedByNextConditionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpConstantNamingConventionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpConstantReassignmentInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpConstructorStyleInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpContinueTargetingSwitchInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpCoveredCharacterInClassInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpCurlyBraceAccessSyntaxUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDangerousArrayInitializationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDefineCanBeReplacedWithConstInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDefineConstantNameStartsWithLeadingSlashInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDeprecatedAssertDeclarationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDeprecatedAutoloadDeclarationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDeprecatedCastInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDeprecatedDollarBraceStringInterpolationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpDeprecatedImplodeUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDeprecatedPartiallySupportedCallableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpDeprecatedSerializableUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDeprecatedStdLibCallInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDeprecationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDisabledExtensionStubsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDisabledQualityToolComposerInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDivisionByZeroInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDocDuplicateTypeInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDocFieldTypeMismatchInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDocMissingThrowsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDocRedundantThrowsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDocSignatureInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDocSignatureIsNotCompleteInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDuplicateArrayKeysInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDuplicateCaseInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDuplicateCatchBodyInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDuplicateMatchArmBodyInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDuplicateMatchConditionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDuplicateOperandInComparisonInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDuplicateSwitchCaseBodyInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDuplicatedCharacterInStrFunctionCallInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDynamicAsStaticMethodCallInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpDynamicFieldDeclarationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpEchoOpenTagInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpElementIsNotAvailableInCurrentPhpVersionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpEnforceDocCommentInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpExceptionImmediatelyRethrownInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpExpectedValuesShouldBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpExpressionAlwaysNullInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpExpressionResultUnusedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpExpressionWithSameOperandsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpExpressionWithoutClarifyingParenthesesInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpFeatureEnvyLocalInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpFieldAssignmentTypeMismatchInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpFieldCanBePromotedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpFieldImmediatelyRewrittenInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpForeachArrayIsUsedAsValueInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpForeachNestedOuterKeyValueVariablesConflictInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpForeachOverSingleElementArrayLiteralInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpForeachVariableOverwritesAlreadyDefinedVariableInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpFormatCallWithSingleArgumentInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpFormatFunctionParametersMismatchInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpFullyQualifiedNameUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpFuncGetArgCanBeReplacedWithParamInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpFunctionCyclomaticComplexityInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpFunctionNamingConventionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpGetClassCanBeReplacedWithClassNameLiteralInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpGotoIntoLoopInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpHalsteadMetricInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpHierarchyChecksInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpIdempotentOperationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpIfCanBeMergedWithSequentialConditionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpIfCanBeReplacedWithMatchExpressionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpIfWithCommonPartsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpIgnoredClassAliasDeclaration" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpIllegalArrayKeyTypeInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpIllegalPsrClassPathInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpIllegalStringOffsetInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpImmutablePropertyIsWrittenInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpImplicitOctalLiteralUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpInArrayCanBeReplacedWithComparisonInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpInapplicableAttributeTargetDeclarationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpInappropriateInheritDocUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpIncludeInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpIncompatibleReturnTypeInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpInconsistentReturnPointsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpIncorrectMagicMethodSignatureInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpInstanceofIsAlwaysTrueInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpIntRangesMismatchInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpInternalEntityUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpInvalidInstanceofInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpInvalidMagicMethodModifiersInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpInvalidStringOffsetUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpIssetCanBeReplacedWithCoalesceInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpLackOfCohesionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpLanguageLevelInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpLineCommentWillBeParsedAsAttributeInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpLongTypeFormInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpLoopCanBeConvertedToArrayFillInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpLoopCanBeConvertedToArrayFilterInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpLoopCanBeConvertedToArrayMapInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpLoopCanBeReplacedWithImplodeInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpLoopCanBeReplacedWithStdFunctionCallsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpLoopCanBeReplacedWithStrRepeatInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpLoopNeverIteratesInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpMatchCanBeReplacedWithSwitchStatementInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpMatchExpressionCanBeReplacedWithTernaryInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpMatchExpressionWithOnlyDefaultArmInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpMemberCanBePulledUpInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpMethodMayBeInaccessibleInLateStaticBindingInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpMethodMayBeStaticInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpMethodNamingConventionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpMethodOrClassCallIsNotCaseSensitiveInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpMethodParametersCountMismatchInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpMissingBreakStatementInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpMissingDocCommentInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpMissingFieldTypeInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpMissingParamTypeInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpMissingParentCallCommonInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpMissingParentCallMagicInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpMissingParentConstructorInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpMissingReturnTypeInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpMissingStrictTypesDeclarationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpMissingVisibilityInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpMixedReturnTypeCanBeReducedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpMockeryInvalidMockingMethodInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpModifierOrderInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpModuloByOneInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpMultipleClassDeclarationsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpMultipleClassesDeclarationsInOneFile" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpNModifierCanBeReplacedWithNonCapturingGroupInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="PhpNamedArgumentMightBeUnresolvedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpNamedArgumentUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpNamedArgumentsWithChangedOrderInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpNestedDirNameCallsCanBeReplacedWithLevelParameterInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpNestedMinMaxCallInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpNestedTernaryExpressionUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpNeverTypedFunctionReturnViolationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpNewClassMissingParameterListInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpNoReturnAttributeCanBeAddedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpNonCanonicalElementsOrderInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpNonCompoundUseInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpNonStrictObjectEqualityInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpNotInstalledPackagesInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpNullIsNotCompatibleWithParameterInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpNullSafeOperatorCanBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpObjectFieldsAreOnlyWrittenInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpOptionalBeforeRequiredParametersInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpOverridingMethodVisibilityInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpParameterByRefIsNotUsedAsReferenceInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpParameterNameChangedDuringInheritanceInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpParamsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpPassByRefInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpPluralMixedCanBeReplacedWithArrayInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpPointlessBooleanExpressionInConditionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpPossiblePolymorphicInvocationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpPowCallCanBeReplacedWithOperatorInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpPregMatchRedundantClosureInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpPregMatchReplaceWithComparisonInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpPregMatchWithoutEffectiveRegexpInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpPregReplaceWithEmptyReplacementInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpPregSplitWithoutRegExpInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpPrivateFieldCanBeLocalVariableInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpPromotedFieldUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpPropertyCanBeReadonlyInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpPropertyNamingConventionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpPropertyOnlyWrittenInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpPureAttributeCanBeAddedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpPureFunctionMayProduceSideEffectsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpRandArgumentsInReverseOrderInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpRangesInClassCanBeMergedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpReadonlyPropertyWrittenOutsideDeclarationScopeInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpRedeclarationStdlibFunctionInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PhpRedundantArrayCallInForeachIteratedValueInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpRedundantAssignmentToPromotedFieldInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpRedundantAttributeParenthesisInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpRedundantCatchClauseInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpRedundantClosingTagInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpRedundantDefaultBreakContinueArgumentInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpRedundantDocCommentInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpRedundantIntersectionTypeInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpRedundantMethodOverrideInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpRedundantOptionalArgumentInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpRedundantReadonlyModifierInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpRedundantTypeInUnionTypeInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpRedundantVariableDocTypeInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpRegExpInvalidDelimiterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpRegExpRedundantModifierInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpRegExpUnsupportedModifierInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpReturnDocTypeMismatchInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpReturnValueOfMethodIsNeverUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpSameParameterValueInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpSecondWriteToReadonlyPropertyInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpSeparateElseIfInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpShortOpenEchoTagInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpShortOpenTagInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpSignatureMismatchDuringInheritanceInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpSillyAssignmentInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpSingleStatementWithBracesInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpStanGlobal" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpStatementHasEmptyBodyInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpStatementWithoutBracesInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpStaticAsDynamicMethodCallInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpStrFunctionsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpStrictComparisonWithOperandsOfDifferentTypesInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpStrictTypeCheckingInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpSuperClassIncompatibleWithInterfaceInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpSuspiciousNameCombinationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpSwitchCanBeReplacedWithMatchExpressionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpSwitchCaseWithoutDefaultBranchInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpSwitchStatementWitSingleBranchInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpSwitchWithCommonPartsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpTernaryExpressionCanBeReducedToShortVersionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpTernaryExpressionCanBeReplacedWithConditionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpToStringImplementationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpToStringMayProduceExceptionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpToStringReturnInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpTooLongMemberReferenceChainInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpTooManyParametersInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpTraditionalSyntaxArrayLiteralInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpTraitUsageOutsideUseInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpTraitUseRuleInsideDifferentClassUseListInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpTraitsUseListInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpTypedPropertyMightBeUninitializedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUncoveredEnumCasesInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUndefinedCallbackInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUndefinedClassConstantInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUndefinedClassInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUndefinedConstantInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUndefinedFieldInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUndefinedFunctionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUndefinedGotoLabelInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUndefinedMethodInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUndefinedNamespaceInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUndefinedVariableInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnhandledExceptionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnitAssertArrayHasKeyInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnitAssertCanBeReplacedWithEmptyInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnitAssertCanBeReplacedWithFailInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnitAssertContainsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnitAssertCountInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnitAssertEqualsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnitAssertFileEqualsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnitAssertTrueWithIncompatibleTypeArgumentInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnitCoversByAccessModifierIsDeprecatedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnitCoversFunctionWithoutScopeResolutionOperatorInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnitDeprecatedCallsIn10VersionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnitDeprecatedExpectExceptionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnitDeprecationsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnitExpectedExceptionDocTagIsDeprecatedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnitInvalidMockingEntityInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnitMisorderedAssertEqualsArgumentsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnitMissingTargetForTestInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnitTestFailedLineInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnitTestsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnitUndefinedDataProviderInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnnecessaryBoolCastInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnnecessaryCurlyVarSyntaxInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnnecessaryDoubleQuotesInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnnecessaryElseBranchInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnnecessaryFullyQualifiedNameInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnnecessaryLeadingBackslashInUseStatementInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnnecessaryLocalVariableInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnnecessaryParenthesesInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnnecessarySemicolonInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnnecessarySpreadOperatorForFunctionCallArgumentInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnnecessaryStaticReferenceInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnnecessaryStopStatementInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnnecessaryStringCastInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnpackedArgumentTypeMismatchInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnpackingArraysWithStringKeysInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PhpUnreachableStatementInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnused" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnusedAliasInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnusedFieldDefaultValueInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnusedLocalVariableInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnusedMatchConditionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnusedParameterInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnusedPrivateFieldInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnusedPrivateMethodInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUnusedSwitchBranchInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUsageOfSilenceOperatorInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpUselessTrailingCommaInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpVarExportUsedWithoutReturnArgumentInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpVarTagWithoutVariableNameInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpVarUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpVariableIsUsedOnlyInClosureInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpVariableNamingConventionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpVariableVariableInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpVoidFunctionResultUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpWriteAccessToReferencedArrayValueWithoutUnsetInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpWrongCatchClausesOrderInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpWrongForeachArgumentTypeInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PhpWrongStringConcatenationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PluginInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PotentialMalwareInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PowerOperatorCanBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PregQuoteUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PreloadingUsageCorrectnessInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PrintfScanfArgumentsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ProhibitedClassExtendInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ProperNullCoalescingOperatorUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PropertyAnnotationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PropertyCanBePrivateInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PropertyCanBeStaticInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PropertyInitializationFlawsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PsalmAdvanceCallableParamsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="PsalmGlobal" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="RandomApiMigrationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="RealpathInStreamContextInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="RedundantDocCommentTagInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="RedundantElseClauseInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ReferencingObjectsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="RepositoryClassInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ReturnTypeCanBeDeclaredInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="SecurityAdvisoriesInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES">
+      <option name="optionConfiguration">
+        <list>
+          <option value="barryvdh/laravel-debugbar" />
+          <option value="behat/behat" />
+          <option value="brianium/paratest" />
+          <option value="codeception/codeception" />
+          <option value="codedungeon/phpunit-result-printer" />
+          <option value="composer/composer" />
+          <option value="doctrine/coding-standard" />
+          <option value="filp/whoops" />
+          <option value="friendsofphp/php-cs-fixer" />
+          <option value="humbug/humbug" />
+          <option value="infection/infection" />
+          <option value="jakub-onderka/php-parallel-lint" />
+          <option value="johnkary/phpunit-speedtrap" />
+          <option value="kalessil/production-dependencies-guard" />
+          <option value="mikey179/vfsStream" />
+          <option value="mockery/mockery" />
+          <option value="mybuilder/phpunit-accelerator" />
+          <option value="orchestra/testbench" />
+          <option value="pdepend/pdepend" />
+          <option value="phan/phan" />
+          <option value="phing/phing" />
+          <option value="phpcompatibility/php-compatibility" />
+          <option value="phpmd/phpmd" />
+          <option value="phpro/grumphp" />
+          <option value="phpspec/phpspec" />
+          <option value="phpspec/prophecy" />
+          <option value="phpstan/phpstan" />
+          <option value="phpunit/phpunit" />
+          <option value="povils/phpmnd" />
+          <option value="roave/security-advisories" />
+          <option value="satooshi/php-coveralls" />
+          <option value="sebastian/phpcpd" />
+          <option value="slevomat/coding-standard" />
+          <option value="spatie/phpunit-watcher" />
+          <option value="squizlabs/php_codesniffer" />
+          <option value="sstalle/php7cc" />
+          <option value="symfony/debug" />
+          <option value="symfony/maker-bundle" />
+          <option value="symfony/phpunit-bridge" />
+          <option value="symfony/var-dumper" />
+          <option value="vimeo/psalm" />
+          <option value="wimg/php-compatibility" />
+          <option value="wp-coding-standards/wpcs" />
+          <option value="yiisoft/yii2-coding-standards" />
+          <option value="yiisoft/yii2-debug" />
+          <option value="yiisoft/yii2-gii" />
+          <option value="zendframework/zend-coding-standard" />
+          <option value="zendframework/zend-debug" />
+          <option value="zendframework/zend-test" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SelfClassReferencingInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="SenselessMethodDuplicationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="SenselessProxyMethodInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="SenselessTernaryOperatorInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ShortEchoTagCanBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ShortListSyntaxCanBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ShortOpenTagUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="SimpleXmlLoadFileUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="SlowArrayOperationsInLoopInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="StaticClosureCanBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="StaticInvocationViaThisInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="StaticLambdaBindingInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="StrContainsCanBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="StrEndsWithCanBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="StrStartsWithCanBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="StrStrUsedAsStrPosInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="StrTrUsageAsStrReplaceInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="StringCaseManipulationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="StringNormalizationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="StringsFirstCharactersCompareInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="StrlenInEmptyStringCheckContextInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="StrtotimeUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="SubStrShortHandUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="SubStrUsedAsArrayAccessInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="SubStrUsedAsStrPosInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="SuspiciousAssignmentsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="SuspiciousBinaryOperationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="SuspiciousFunctionCallsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="SuspiciousLoopInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="SuspiciousReturnInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="SuspiciousSemicolonInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="SwitchContinuationInLoopInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="TernaryOperatorSimplifyInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ThrowRawExceptionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="ToStringCallInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="TraitsPropertiesConflictsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="TypeUnsafeArraySearchInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="TypeUnsafeComparisonInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="TypesCastingCanBeUsedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="UnNecessaryDoubleQuotesInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="UnSafeIsSetOverArrayInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="UnknownColumnInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="UnknownInspectionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="UnknownTableOrViewInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="UnnecessaryAssertionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="UnnecessaryCastingInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="UnnecessaryFinalModifierInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="UnnecessaryIssetArgumentsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="UnnecessarySemicolonInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="UnnecessaryUseAliasInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="UnqualifiedReferenceInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="UnserializeExploitsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="UnsetConstructsCanBeMergedInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="UnsupportedEmptyListAssignmentsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="UnsupportedStringOffsetOperationsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="UntrustedInclusionInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="UnusedConstructorDependenciesInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="UnusedGotoLabelInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="UselessReturnInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="UselessUnsetInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="UsingInclusionOnceReturnValueInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="UsingInclusionReturnValueInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="VariableFunctionsUsageInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+    <inspection_tool class="VirtualTypeCheckInspection" enabled="false" level="INFORMATION" enabled_by_default="false" editorAttributes="INFORMATION_ATTRIBUTES" />
+  </profile>
+</component>
